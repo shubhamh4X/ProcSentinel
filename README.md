@@ -18,7 +18,7 @@ A lightweight C++ tool to monitor and detect suspicious process behavior based o
 
 ### Steps
 ```bash
-git clone https://github.com/yourusername/ProcSentinel.git
+git clone https://github.com/shubhamh4x/ProcSentinel.git
 cd ProcSentinel
 mkdir build && cd build
 cmake ..
